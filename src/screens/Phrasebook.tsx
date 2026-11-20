@@ -6,7 +6,7 @@ import { useApp } from '../state'
 
 /** Every phrase in the course — the native speaker's review workspace. */
 export function Phrasebook() {
-  const { course, corrections, recordings } = useApp()
+  const { course, corrections, recordings, canListen } = useApp()
   const [q, setQ] = useState('')
   const [filter, setFilter] = useState<'all' | 'todo' | 'mine'>('all')
   const [fixing, setFixing] = useState<string | null>(null)
@@ -15,7 +15,7 @@ export function Phrasebook() {
   return (
     <div className="px-4 pb-8 pt-2">
       <h1 className="text-2xl font-black">Phrasebook</h1>
-      <p className="mb-3 text-sm text-wolf">Tap ✎ to fix a phrase or record how it's really said in Pampanga.</p>
+      <p className="mb-3 text-sm text-wolf">Tap 🔊 to listen. Tap <b>Fix</b> to correct a phrase, or <b>Record</b> to add how it's really said in Pampanga.</p>
       <input className="field mb-2" placeholder="Search Kapampangan or English" value={q} onChange={(e) => setQ(e.target.value)} autoCapitalize="off" />
       <div className="mb-4 flex gap-2 text-sm">
         {(['all', 'todo', 'mine'] as const).map((f) => (
@@ -38,7 +38,7 @@ export function Phrasebook() {
             <ul className="space-y-2">
               {items.map((i) => (
                 <li key={i.id} className="flex items-center gap-3 rounded-2xl border-2 border-swan p-3">
-                  <SpeakerButton item={i} onMissing={() => setFixing(i.id)} />
+                  <SpeakerButton item={i} />
                   <div className="min-w-0 flex-1">
                     <div className="flex flex-wrap items-baseline gap-x-2">
                       <span className="font-extrabold">{i.roman}</span>
@@ -63,7 +63,9 @@ export function Phrasebook() {
                       ) : null}
                     </div>
                   </div>
-                  <button type="button" aria-label={`Fix ${i.roman}`} className="chip px-3 text-sky" onClick={() => setFixing(i.id)}>✎</button>
+                  <button type="button" aria-label={`Fix or record ${i.roman}`} className="chip shrink-0 px-2.5 py-1.5 text-xs uppercase text-sky-dark" onClick={() => setFixing(i.id)}>
+                    {canListen(i) ? '✏️ Fix' : '🎙️ Record'}
+                  </button>
                 </li>
               ))}
             </ul>

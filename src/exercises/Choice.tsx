@@ -5,7 +5,7 @@ import type { Exercise } from '../lib/exercises'
 import { useApp } from '../state'
 import type { ExerciseProps } from './types'
 
-export function Choice({ ex, value, setValue, locked, onFix }: ExerciseProps<Extract<Exercise, { kind: 'choice' }>>) {
+export function Choice({ ex, value, setValue, locked }: ExerciseProps<Extract<Exercise, { kind: 'choice' }>>) {
   const { item } = useApp()
   const target = item(ex.itemId)
 
@@ -22,7 +22,7 @@ export function Choice({ ex, value, setValue, locked, onFix }: ExerciseProps<Ext
       <h1 className="mb-6 text-2xl font-black">{title}</h1>
       {ex.mode !== 'target' && (
         <div className="mb-8 flex items-center gap-4">
-          <SpeakerButton item={target} big={ex.mode === 'listen'} onMissing={() => onFix(target.id)} />
+          <SpeakerButton item={target} big={ex.mode === 'listen'} />
           {ex.mode === 'meaning' && (
             <div className="rounded-2xl border-2 border-swan px-4 py-3 text-2xl font-extrabold">
               <PhraseText item={target} />

@@ -5,5 +5,4 @@ export interface ExerciseProps<E extends Exercise = Exercise> {
   value: string
   setValue: (v: string) => void
   locked: boolean // answer checked; inputs frozen
-  onFix: (itemId: string) => void
 }

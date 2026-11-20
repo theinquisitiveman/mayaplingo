@@ -6,7 +6,7 @@ import { useApp } from '../state'
 import type { ExerciseProps } from './types'
 
 /** Record yourself and compare with the native recording. No automatic scoring: no Kapampangan speech recognition on iOS. */
-export function Speak({ ex, setValue, locked, onFix }: ExerciseProps<Extract<Exercise, { kind: 'speak' }>>) {
+export function Speak({ ex, setValue, locked }: ExerciseProps<Extract<Exercise, { kind: 'speak' }>>) {
   const { item } = useApp()
   const target = item(ex.itemId)
   const [rec, setRec] = useState<Recorder | null>(null)
@@ -34,7 +34,7 @@ export function Speak({ ex, setValue, locked, onFix }: ExerciseProps<Extract<Exe
     <div className="flex flex-1 flex-col">
       <h1 className="mb-6 text-2xl font-black">Say it out loud</h1>
       <div className="mb-8 flex items-center gap-4">
-        <SpeakerButton item={target} onMissing={() => onFix(target.id)} />
+        <SpeakerButton item={target} />
         <div className="rounded-2xl border-2 border-swan px-4 py-3 text-2xl font-extrabold">
           <PhraseText item={target} />
           <div className="text-base font-bold text-wolf">{target.en}</div>

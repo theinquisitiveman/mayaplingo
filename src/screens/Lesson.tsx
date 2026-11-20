@@ -90,7 +90,7 @@ export function Lesson({ items, pool, lessonId, practice = false, onExit }: Prop
     setAccepted(false)
   }
 
-  const props = { value, setValue, locked: status !== 'idle', onFix: setFixing }
+  const props = { value, setValue, locked: status !== 'idle' }
   const answerItem = ex.kind === 'match' ? null : item(ex.itemId)
   const showCorrect = status === 'correct' || accepted
 
@@ -126,7 +126,7 @@ export function Lesson({ items, pool, lessonId, practice = false, onExit }: Prop
             )}
             <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm font-extrabold uppercase">
               {exerciseItemIds(ex).length === 1 && (
-                <button type="button" className="text-wolf" onClick={() => setFixing(exerciseItemIds(ex)[0])}>🚩 Fix this phrase</button>
+                <button type="button" className="chip px-3 py-1.5 text-xs uppercase text-sky-dark" onClick={() => setFixing(exerciseItemIds(ex)[0])}>✏️ Fix or record this phrase</button>
               )}
               {status === 'wrong' && ex.kind === 'wordbank' && value && !accepted && (
                 <button type="button" className="text-wolf" onClick={() => { acceptAnswer(ex.itemId, value); setAccepted(true) }}>
