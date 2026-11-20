@@ -18,6 +18,7 @@ export function validateCourse(course: Course): string[] {
           if (!item[f]?.trim()) problems.push(`item ${item.id} missing ${f}`)
         }
         if (item.status !== 'draft' && item.status !== 'reviewed') problems.push(`item ${item.id} has bad status`)
+        if (item.audio && (!item.audioSource || !item.audioCredit)) problems.push(`item ${item.id} audio needs audioSource and audioCredit`)
       }
     }
   }

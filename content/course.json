@@ -27,25 +27,37 @@
               "notes": "'Mayap' means good; 'abak' is morning.",
               "alts": [
                 "mayap a yabak"
-              ]
+              ],
+              "audio": "audio/mayap-a-abak.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mayap-a-ugtu",
               "roman": "mayap a ugtu",
               "en": "good noon",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-a-ugtu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mayap-a-gatpanapun",
               "roman": "mayap a gatpanapun",
               "en": "good afternoon",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-a-gatpanapun.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mayap-a-bengi",
               "roman": "mayap a bengi",
               "en": "good evening / good night",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-a-bengi.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "wa",
@@ -75,38 +87,56 @@
               "alts": [
                 "komusta ka?",
                 "cumusta ca?"
-              ]
+              ],
+              "audio": "audio/kumusta-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kumusta-kayu-pu",
               "roman": "kumusta kayu pu?",
               "en": "how are you? (respectful)",
               "status": "draft",
-              "notes": "'pu' shows respect, like Tagalog 'po'."
+              "notes": "'pu' shows respect, like Tagalog 'po'.",
+              "audio": "audio/kumusta-kayu-pu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mayap-ku",
               "roman": "mayap ku",
               "en": "I'm fine",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mayap-ku-naman",
               "roman": "mayap ku naman",
               "en": "I'm fine too",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-ku-naman.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ika-naman",
               "roman": "ika naman?",
               "en": "and you?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ika-naman.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ing-balita",
               "roman": "nanu ing balita?",
               "en": "what's the news?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ing-balita.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -118,37 +148,55 @@
               "id": "salamat",
               "roman": "salamat",
               "en": "thank you",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/salamat.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "dakal-a-salamat",
               "roman": "dakal a salamat",
               "en": "thank you very much",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/dakal-a-salamat.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "alang-anuman",
               "roman": "alang anuman",
               "en": "you're welcome",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/alang-anuman.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pasensya-na",
               "roman": "pasensya na",
               "en": "sorry",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pasensya-na.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mako-na-ku",
               "roman": "mako na ku",
               "en": "I'm leaving now",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mako-na-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mimingat-ka",
               "roman": "mimingat ka",
               "en": "take care",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mimingat-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -163,32 +211,47 @@
               "status": "draft",
               "alts": [
                 "nanung lagyu mu?"
-              ]
+              ],
+              "audio": "audio/nanu-ing-lagyu-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ana-ing-lagyu-ku",
               "roman": "Ana ing lagyu ku",
               "en": "my name is Ana",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ana-ing-lagyu-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ninu-ka",
               "roman": "ninu ka?",
               "en": "who are you?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ninu-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "malaus-ka",
               "roman": "malaus ka",
               "en": "welcome",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/malaus-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "masaya-ku-at-akilala-da-ka",
               "roman": "masaya ku at akilala da ka",
               "en": "nice to meet you",
               "status": "draft",
-              "notes": "'da ka' means 'I … you' in one word pair."
+              "notes": "'da ka' means 'I … you' in one word pair.",
+              "audio": "audio/masaya-ku-at-akilala-da-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pu",
@@ -214,7 +277,10 @@
               "id": "ima",
               "roman": "ima",
               "en": "mother",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ima.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "tata",
@@ -226,19 +292,28 @@
               "id": "kapatad",
               "roman": "kapatad",
               "en": "sibling",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kapatad.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kaka",
               "roman": "kaka",
               "en": "older sibling",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kaka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "wali",
               "roman": "wali",
               "en": "younger sibling",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/wali.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "anak",
@@ -275,7 +350,10 @@
               "id": "pinsan",
               "roman": "pinsan",
               "en": "cousin",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pinsan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "asawa",
@@ -287,7 +365,10 @@
               "id": "pengari",
               "roman": "pengari",
               "en": "parents",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pengari.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -299,19 +380,28 @@
               "id": "ing-ima-ku",
               "roman": "ing ima ku",
               "en": "my mother",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ing-ima-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ing-tata-mu",
               "roman": "ing tata mu",
               "en": "your father",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ing-tata-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ing-pamilya-ku",
               "roman": "ing pamilya ku",
               "en": "my family",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ing-pamilya-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bale",
@@ -323,13 +413,19 @@
               "id": "mayap-ya-ing-ima-ku",
               "roman": "mayap ya ing ima ku",
               "en": "my mother is well",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-ya-ing-ima-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kumusta-ya-ing-pamilya-mu",
               "roman": "kumusta ya ing pamilya mu?",
               "en": "how is your family?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kumusta-ya-ing-pamilya-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -341,38 +437,56 @@
               "id": "iti-ing-kapatad-ku",
               "roman": "iti ing kapatad ku",
               "en": "this is my sibling",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/iti-ing-kapatad-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pilan-la-ding-kapatad-mu",
               "roman": "pilan la ding kapatad mu?",
               "en": "how many siblings do you have?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pilan-la-ding-kapatad-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "adwa-la-ding-kapatad-ku",
               "roman": "adwa la ding kapatad ku",
               "en": "I have two siblings",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/adwa-la-ding-kapatad-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "atin-kang-anak",
               "roman": "atin kang anak?",
               "en": "do you have children?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/atin-kang-anak.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kapitbale",
               "roman": "kapitbale",
               "en": "neighbour",
               "status": "draft",
-              "notes": "From 'bale', house."
+              "notes": "From 'bale', house.",
+              "audio": "audio/kapitbale.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bisita",
               "roman": "bisita",
               "en": "guest",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bisita.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -392,7 +506,10 @@
               "id": "aku",
               "roman": "aku",
               "en": "I",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/aku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ika",
@@ -416,7 +533,10 @@
               "id": "ikatamu",
               "roman": "ikatamu",
               "en": "we (including you)",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ikatamu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ila",
@@ -434,37 +554,55 @@
               "id": "taga-nokarin-ka",
               "roman": "taga-nokarin ka?",
               "en": "where are you from?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/taga-nokarin-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "taga-angeles-ku",
               "roman": "taga-Angeles ku",
               "en": "I'm from Angeles",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/taga-angeles-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "taga-san-fernando-ku",
               "roman": "taga-San Fernando ku",
               "en": "I'm from San Fernando",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/taga-san-fernando-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kapampangan-ku",
               "roman": "Kapampangan ku",
               "en": "I'm Kapampangan",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kapampangan-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nokarin-ka-makatuknang",
               "roman": "nokarin ka makatuknang?",
               "en": "where do you live?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nokarin-ka-makatuknang.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "makatuknang-ku-king-amerika",
               "roman": "makatuknang ku king Amerika",
               "en": "I live in America",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/makatuknang-ku-king-amerika.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -476,38 +614,56 @@
               "id": "mag-aral-ku-ning-kapampangan",
               "roman": "mag-aral ku ning Kapampangan",
               "en": "I'm studying Kapampangan",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mag-aral-ku-ning-kapampangan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ditak-mu-ing-balu-ku",
               "roman": "ditak mu ing balu ku",
               "en": "I only know a little",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ditak-mu-ing-balu-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "balu-ku",
               "roman": "balu ku",
               "en": "I know",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/balu-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-ku-balu",
               "roman": "e ku balu",
               "en": "I don't know",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-ku-balu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pakisabi-mu-pasibayu",
               "roman": "pakisabi mu pasibayu",
               "en": "please say it again",
               "status": "draft",
-              "notes": "'pasibayu' = again."
+              "notes": "'pasibayu' = again.",
+              "audio": "audio/pakisabi-mu-pasibayu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-ku-aintindian",
               "roman": "e ku aintindian",
               "en": "I don't understand",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-ku-aintindian.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -520,38 +676,56 @@
               "roman": "pilan na kang banwa?",
               "en": "how old are you?",
               "status": "draft",
-              "notes": "'banwa' = year."
+              "notes": "'banwa' = year.",
+              "audio": "audio/pilan-na-kang-banwa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "adwang-pulu-ku-banwa",
               "roman": "adwang pulu ku banwa",
               "en": "I'm twenty years old",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/adwang-pulu-ku-banwa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ing-obra-mu",
               "roman": "nanu ing obra mu?",
               "en": "what's your job?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ing-obra-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "estudyanti-ku",
               "roman": "estudyanti ku",
               "en": "I'm a student",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/estudyanti-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "maestra-ku",
               "roman": "maestra ku",
               "en": "I'm a teacher (woman)",
               "status": "draft",
-              "notes": "A man says: maestru ku."
+              "notes": "A man says: maestru ku.",
+              "audio": "audio/maestra-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "obra",
               "roman": "obra",
               "en": "work / job",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/obra.m4a",
+              "audioSource": "native",
+              "audioCredit": "Native speaker recording by lgriot, CC BY-SA 3.0, via Wikimedia Commons (File:Pam-ph-obra.ogg)"
             }
           ]
         }
@@ -571,13 +745,19 @@
               "id": "danum",
               "roman": "danum",
               "en": "water",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/danum.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kape",
               "roman": "kape",
               "en": "coffee",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kape.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "gatas",
@@ -589,19 +769,28 @@
               "id": "buri-mung-kape",
               "roman": "buri mung kape?",
               "en": "would you like coffee?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/buri-mung-kape.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "wa-salamat",
               "roman": "wa, salamat",
               "en": "yes, thank you",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/wa-salamat.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ali-salamat",
               "roman": "ali, salamat",
               "en": "no, thank you",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ali-salamat.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -614,7 +803,10 @@
               "roman": "nasi",
               "en": "cooked rice",
               "status": "draft",
-              "notes": "Uncooked rice is 'abias'."
+              "notes": "Uncooked rice is 'abias'.",
+              "audio": "audio/nasi.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "asan",
@@ -626,7 +818,10 @@
               "id": "manuk",
               "roman": "manuk",
               "en": "chicken",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/manuk.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "babi",
@@ -644,7 +839,10 @@
               "id": "gulay",
               "roman": "gulay",
               "en": "vegetables",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/gulay.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -656,13 +854,19 @@
               "id": "danupan-ku",
               "roman": "danupan ku",
               "en": "I'm hungry",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/danupan-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "makauaw-ku",
               "roman": "makauaw ku",
               "en": "I'm thirsty",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/makauaw-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mabsi-ku-na",
@@ -674,19 +878,28 @@
               "id": "mangan-ta-na",
               "roman": "mangan ta na",
               "en": "let's eat",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mangan-ta-na.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "manyaman",
               "roman": "manyaman",
               "en": "delicious",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/manyaman.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mangan-ka-pa",
               "roman": "mangan ka pa",
               "en": "have some more",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mangan-ka-pa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -705,32 +918,47 @@
               "id": "kare-kare",
               "roman": "kare-kare",
               "en": "oxtail peanut stew",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kare-kare.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pindang",
               "roman": "pindang",
               "en": "sweet cured pork",
               "status": "draft",
-              "notes": "Known elsewhere as tocino."
+              "notes": "Known elsewhere as tocino.",
+              "audio": "audio/pindang.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "buru",
               "roman": "buru",
               "en": "fermented rice with fish",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/buru.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "tibuk-tibuk",
               "roman": "tibuk-tibuk",
               "en": "carabao-milk pudding",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/tibuk-tibuk.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bulanglang",
               "roman": "bulanglang",
               "en": "sour guava soup",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bulanglang.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -750,37 +978,55 @@
               "id": "munta-ku",
               "roman": "munta ku",
               "en": "I'm going",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/munta-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mumuli-na-ku",
               "roman": "mumuli na ku",
               "en": "I'm going home now",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mumuli-na-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mekeni-ka",
               "roman": "mekeni ka",
               "en": "come here",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mekeni-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nokarin-ka-munta",
               "roman": "nokarin ka munta?",
               "en": "where are you going?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nokarin-ka-munta.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "munta-ku-king-palengke",
               "roman": "munta ku king palengke",
               "en": "I'm going to the market",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/munta-ku-king-palengke.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "munta-ka",
               "roman": "munta ka?",
               "en": "are you going?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/munta-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -792,13 +1038,19 @@
               "id": "mangan",
               "roman": "mangan",
               "en": "to eat",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mangan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "matudtud",
               "roman": "matudtud",
               "en": "to sleep",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/matudtud.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mag-obra",
@@ -810,19 +1062,28 @@
               "id": "buri-ku",
               "roman": "buri ku",
               "en": "I want / I like",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/buri-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ing-buri-mu",
               "roman": "nanu ing buri mu?",
               "en": "what do you want?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ing-buri-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-ku-buri",
               "roman": "e ku buri",
               "en": "I don't want",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-ku-buri.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -834,13 +1095,19 @@
               "id": "agyu-ku",
               "roman": "agyu ku",
               "en": "I can",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/agyu-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-ku-agyu",
               "roman": "e ku agyu",
               "en": "I can't",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-ku-agyu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "atin",
@@ -858,13 +1125,19 @@
               "id": "ala-kung-pera",
               "roman": "ala kung pera",
               "en": "I have no money",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ala-kung-pera.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "atin-kang-oras",
               "roman": "atin kang oras?",
               "en": "do you have time?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/atin-kang-oras.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -876,7 +1149,10 @@
               "id": "ngeni",
               "roman": "ngeni",
               "en": "now / today",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ngeni.m4a",
+              "audioSource": "native",
+              "audioCredit": "Native speaker recording by lgriot, CC BY-SA 3.0, via Wikimedia Commons (File:Pam-ph-ngeni.ogg)"
             },
             {
               "id": "bukas",
@@ -888,19 +1164,28 @@
               "id": "napun",
               "roman": "napun",
               "en": "yesterday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/napun.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ngeni-bengi",
               "roman": "ngeni bengi",
               "en": "tonight",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ngeni-bengi.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "munta-ku-bukas",
               "roman": "munta ku bukas",
               "en": "I'll go tomorrow",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/munta-ku-bukas.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "agad",
@@ -926,7 +1211,10 @@
               "id": "metung",
               "roman": "metung",
               "en": "one",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/metung.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "adwa",
@@ -962,7 +1250,10 @@
               "id": "anam",
               "roman": "anam",
               "en": "six",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/anam.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pitu",
@@ -974,31 +1265,46 @@
               "id": "walu",
               "roman": "walu",
               "en": "eight",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/walu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "siyam",
               "roman": "siyam",
               "en": "nine",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/siyam.m4a",
+              "audioSource": "native",
+              "audioCredit": "Native speaker recording by lgriot, CC BY-SA 3.0, via Wikimedia Commons (File:Pam-ph-syam.ogg)"
             },
             {
               "id": "apulu",
               "roman": "apulu",
               "en": "ten",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/apulu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "adwang-pulu",
               "roman": "adwang pulu",
               "en": "twenty",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/adwang-pulu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "dinalan",
               "roman": "dinalan",
               "en": "one hundred",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/dinalan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1010,19 +1316,28 @@
               "id": "magkanu-ya-ini",
               "roman": "magkanu ya ini?",
               "en": "how much is this?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/magkanu-ya-ini.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mal-ya",
               "roman": "mal ya",
               "en": "it's expensive",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mal-ya.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mura-ya",
               "roman": "mura ya",
               "en": "it's cheap",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mura-ya.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pera",
@@ -1034,13 +1349,19 @@
               "id": "saliwan-ke-ini",
               "roman": "saliwan ke ini",
               "en": "I'll buy this",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/saliwan-ke-ini.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "palengke",
               "roman": "palengke",
               "en": "market",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/palengke.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1052,25 +1373,37 @@
               "id": "atin-pang-mas-mura",
               "roman": "atin pang mas mura?",
               "en": "is there anything cheaper?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/atin-pang-mas-mura.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bawasan-mu-pa",
               "roman": "bawasan mu pa",
               "en": "lower the price a little",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bawasan-mu-pa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kulang-ya",
               "roman": "kulang ya",
               "en": "it's not enough",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kulang-ya.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "sukli",
               "roman": "sukli",
               "en": "change (money back)",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/sukli.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "piso",
@@ -1082,7 +1415,10 @@
               "id": "bayad",
               "roman": "bayad",
               "en": "payment",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bayad.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1102,7 +1438,10 @@
               "id": "nokarin",
               "roman": "nokarin?",
               "en": "where?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nokarin.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "keni",
@@ -1114,26 +1453,38 @@
               "id": "karin",
               "roman": "karin",
               "en": "there",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/karin.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "marayu",
               "roman": "marayu",
               "en": "far",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/marayu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "malapit",
               "roman": "malapit",
               "en": "near",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/malapit.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nokarin-ya-ing-cr",
               "roman": "nokarin ya ing CR?",
               "en": "where is the restroom?",
               "status": "draft",
-              "notes": "'CR' (comfort room) is the usual Philippine word."
+              "notes": "'CR' (comfort room) is the usual Philippine word.",
+              "audio": "audio/nokarin-ya-ing-cr.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1145,25 +1496,37 @@
               "id": "wanan",
               "roman": "wanan",
               "en": "right",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/wanan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kaliwa",
               "roman": "kaliwa",
               "en": "left",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kaliwa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "deretsu",
               "roman": "deretsu",
               "en": "straight ahead",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/deretsu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "liku-ka-king-wanan",
               "roman": "liku ka king wanan",
               "en": "turn right",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/liku-ka-king-wanan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "para-pu",
@@ -1176,7 +1539,10 @@
               "id": "dalan",
               "roman": "dalan",
               "en": "road / street",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/dalan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1188,13 +1554,19 @@
               "id": "dyip",
               "roman": "dyip",
               "en": "jeepney",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/dyip.m4a",
+              "audioSource": "native",
+              "audioCredit": "Native speaker recording by lgriot, CC BY-SA 3.0, via Wikimedia Commons (File:Pam-ph-dyip.ogg)"
             },
             {
               "id": "traysikel",
               "roman": "traysikel",
               "en": "tricycle",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/traysikel.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kotse",
@@ -1206,7 +1578,10 @@
               "id": "pasahi",
               "roman": "pasahi",
               "en": "fare",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pasahi.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "lakad",
@@ -1230,7 +1605,10 @@
               "id": "pisamban",
               "roman": "pisamban",
               "en": "church",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pisamban.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "eskwelahan",
@@ -1242,25 +1620,37 @@
               "id": "ospital",
               "roman": "ospital",
               "en": "hospital",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ospital.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bunduk",
               "roman": "bunduk",
               "en": "mountain",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bunduk.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ilug",
               "roman": "ilug",
               "en": "river",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ilug.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bunduk-arayat",
               "roman": "Bunduk Arayat",
               "en": "Mount Arayat",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bunduk-arayat.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1280,37 +1670,55 @@
               "id": "mengan-ku",
               "roman": "mengan ku",
               "en": "I ate",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mengan-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "minta-ku",
               "roman": "minta ku",
               "en": "I went",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/minta-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "metudtud-ku",
               "roman": "metudtud ku",
               "en": "I slept",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/metudtud-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "meg-obra-ku",
               "roman": "meg-obra ku",
               "en": "I worked",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/meg-obra-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ing-gewa-mu",
               "roman": "nanu ing gewa mu?",
               "en": "what did you do?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ing-gewa-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "minta-ku-king-palengke-napun",
               "roman": "minta ku king palengke napun",
               "en": "I went to the market yesterday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/minta-ku-king-palengke-napun.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1323,37 +1731,55 @@
               "roman": "mengan ka na?",
               "en": "have you eaten?",
               "status": "draft",
-              "notes": "A common, caring greeting."
+              "notes": "A common, caring greeting.",
+              "audio": "audio/mengan-ka-na.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-ku-pa-mengan",
               "roman": "e ku pa mengan",
               "en": "I haven't eaten yet",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-ku-pa-mengan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "akit-ke",
               "roman": "akit ke",
               "en": "I saw it / him / her",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/akit-ke.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "sinabi-ku",
               "roman": "sinabi ku",
               "en": "I said it",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/sinabi-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pasibayu",
               "roman": "pasibayu",
               "en": "again",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pasibayu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kanita",
               "roman": "kanita",
               "en": "earlier",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kanita.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1373,13 +1799,19 @@
               "id": "nanu-ing-gagawan-mu",
               "roman": "nanu ing gagawan mu?",
               "en": "what are you doing?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ing-gagawan-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ala-mu",
               "roman": "ala mu",
               "en": "nothing much",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ala-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "tutu",
@@ -1391,7 +1823,10 @@
               "id": "kumusta-ing-obra",
               "roman": "kumusta ing obra?",
               "en": "how's work?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kumusta-ing-obra.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "sige",
@@ -1403,7 +1838,10 @@
               "id": "siyempre",
               "roman": "siyempre",
               "en": "of course",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/siyempre.m4a",
+              "audioSource": "native",
+              "audioCredit": "Native speaker recording by lgriot, CC BY-SA 3.0, via Wikimedia Commons (File:Pam-ph-syempre.ogg)"
             }
           ]
         },
@@ -1415,37 +1853,55 @@
               "id": "masaya-ku",
               "roman": "masaya ku",
               "en": "I'm happy",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/masaya-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "malungkut-ku",
               "roman": "malungkut ku",
               "en": "I'm sad",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/malungkut-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mapagal-ku",
               "roman": "mapagal ku",
               "en": "I'm tired",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mapagal-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "masakit-ku",
               "roman": "masakit ku",
               "en": "I'm sick",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/masakit-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "malagu-ka",
               "roman": "malagu ka",
               "en": "you're beautiful",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/malagu-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "masanting-ya",
               "roman": "masanting ya",
               "en": "he's handsome",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/masanting-ya.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1469,7 +1925,10 @@
               "id": "ali-bale",
               "roman": "ali bale",
               "en": "never mind, it doesn't matter",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ali-bale.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "siguru",
@@ -1484,13 +1943,19 @@
               "status": "draft",
               "alts": [
                 "caluguran da ca"
-              ]
+              ],
+              "audio": "audio/kaluguran-da-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "buri-da-ka",
               "roman": "buri da ka",
               "en": "I like you",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/buri-da-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1510,19 +1975,28 @@
               "id": "nanu",
               "roman": "nanu?",
               "en": "what?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ninu",
               "roman": "ninu?",
               "en": "who?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ninu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kapilan",
               "roman": "kapilan?",
               "en": "when?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kapilan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "obat",
@@ -1534,13 +2008,19 @@
               "id": "makananu",
               "roman": "makananu?",
               "en": "how?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/makananu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pilan",
               "roman": "pilan?",
               "en": "how many?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pilan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1552,37 +2032,55 @@
               "id": "nanu-ya-ini",
               "roman": "nanu ya ini?",
               "en": "what is this?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ya-ini.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ya-ita",
               "roman": "nanu ya ita?",
               "en": "what is that?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ya-ita.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ninu-ya-iti",
               "roman": "ninu ya iti?",
               "en": "who is this?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ninu-ya-iti.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ing-kayulugan-na",
               "roman": "nanu ing kayulugan na?",
               "en": "what does it mean?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ing-kayulugan-na.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanu-ya-ini-keng-kapampangan",
               "roman": "nanu ya ini keng Kapampangan?",
               "en": "what's this in Kapampangan?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanu-ya-ini-keng-kapampangan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kapilan-ka-datang",
               "roman": "kapilan ka datang?",
               "en": "when will you arrive?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kapilan-ka-datang.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1594,37 +2092,55 @@
               "id": "malyari",
               "roman": "malyari?",
               "en": "is it possible?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/malyari.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "wa-malyari",
               "roman": "wa, malyari",
               "en": "yes, it's possible",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/wa-malyari.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-malyari",
               "roman": "e malyari",
               "en": "it's not possible",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-malyari.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "balu-mu",
               "roman": "balu mu?",
               "en": "do you know?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/balu-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "buri-mu",
               "roman": "buri mu?",
               "en": "do you want it?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/buri-mu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "atin-ka",
               "roman": "atin ka?",
               "en": "are you there?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/atin-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1644,37 +2160,55 @@
               "id": "malaus-kayu",
               "roman": "malaus kayu",
               "en": "welcome (to several)",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/malaus-kayu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "lukluk-ka",
               "roman": "lukluk ka",
               "en": "sit down",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/lukluk-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "lukluk-kayu-pu",
               "roman": "lukluk kayu pu",
               "en": "please sit (respectful)",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/lukluk-kayu-pu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mangan-kayu-pu",
               "roman": "mangan kayu pu",
               "en": "please eat (respectful)",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mangan-kayu-pu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "e-ka-mabain",
               "roman": "e ka mabain",
               "en": "don't be shy",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/e-ka-mabain.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pamangan",
               "roman": "pamangan",
               "en": "food / meal",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pamangan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1686,37 +2220,55 @@
               "id": "mekeni-ka-pasibayu",
               "roman": "mekeni ka pasibayu",
               "en": "come again",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mekeni-ka-pasibayu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mimingat-kayu",
               "roman": "mimingat kayu",
               "en": "take care (to several)",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mimingat-kayu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mako-na-kami",
               "roman": "mako na kami",
               "en": "we're leaving now",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mako-na-kami.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pasalubong",
               "roman": "pasalubong",
               "en": "gift brought back for family",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pasalubong.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "manaya-ka",
               "roman": "manaya ka",
               "en": "wait",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/manaya-ka.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "datang-na-ku",
               "roman": "datang na ku",
               "en": "I've arrived",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/datang-na-ku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1748,7 +2300,10 @@
               "id": "gatpanapun",
               "roman": "gatpanapun",
               "en": "afternoon",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/gatpanapun.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bengi",
@@ -1778,19 +2333,28 @@
               "id": "lunes",
               "roman": "Lunes",
               "en": "Monday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/lunes.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "martes",
               "roman": "Martes",
               "en": "Tuesday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/martes.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mierkules",
               "roman": "Mierkules",
               "en": "Wednesday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mierkules.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "huebes",
@@ -1802,19 +2366,28 @@
               "id": "biernes",
               "roman": "Biernes",
               "en": "Friday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/biernes.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "sabadu",
               "roman": "Sabadu",
               "en": "Saturday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/sabadu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "domingu",
               "roman": "Domingu",
               "en": "Sunday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/domingu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1832,19 +2405,28 @@
               "id": "bulan",
               "roman": "bulan",
               "en": "month / moon",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bulan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "banwa",
               "roman": "banwa",
               "en": "year",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/banwa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "nanung-oras-na",
               "roman": "nanung oras na?",
               "en": "what time is it?",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/nanung-oras-na.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "alas-dos",
@@ -1856,7 +2438,10 @@
               "id": "alas-otso-ning-abak",
               "roman": "alas otso ning abak",
               "en": "eight in the morning",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/alas-otso-ning-abak.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1876,25 +2461,37 @@
               "id": "mapali",
               "roman": "mapali",
               "en": "hot",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mapali.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "marimla",
               "roman": "marimla",
               "en": "cold",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/marimla.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mauran",
               "roman": "mauran",
               "en": "rainy",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mauran.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "uran",
               "roman": "uran",
               "en": "rain",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/uran.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "angin",
@@ -1906,7 +2503,10 @@
               "id": "masanting-ing-panaun",
               "roman": "masanting ing panaun",
               "en": "the weather is nice",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/masanting-ing-panaun.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -1924,19 +2524,28 @@
               "id": "payung",
               "roman": "payung",
               "en": "umbrella",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/payung.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mapali-ing-aldo",
               "roman": "mapali ing aldo",
               "en": "the sun is hot",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mapali-ing-aldo.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "bunduk-pinatubo",
               "roman": "Bunduk Pinatubo",
               "en": "Mount Pinatubo",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/bunduk-pinatubo.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "abu",
@@ -1948,7 +2557,10 @@
               "id": "lupa",
               "roman": "lupa",
               "en": "land / soil",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/lupa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }
@@ -1968,19 +2580,28 @@
               "id": "mayap-a-pasku",
               "roman": "Mayap a Pasku",
               "en": "Merry Christmas",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-a-pasku.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "masayang-bayung-banwa",
               "roman": "Masayang Bayung Banwa",
               "en": "Happy New Year",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/masayang-bayung-banwa.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "mayap-a-kebaitan",
               "roman": "Mayap a kebaitan",
               "en": "happy birthday",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/mayap-a-kebaitan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pista",
@@ -1993,13 +2614,19 @@
               "roman": "parul",
               "en": "Christmas star lantern",
               "status": "draft",
-              "notes": "San Fernando is famous for its giant parul."
+              "notes": "San Fernando is famous for its giant parul.",
+              "audio": "audio/parul.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "ligligan-parul",
               "roman": "Ligligan Parul",
               "en": "Giant Lantern Festival",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/ligligan-parul.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         },
@@ -2011,37 +2638,55 @@
               "id": "kasal",
               "roman": "kasal",
               "en": "wedding",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kasal.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "salamat-king-dios",
               "roman": "salamat king Dios",
               "en": "thank God",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/salamat-king-dios.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "dios-ing-makabalu",
               "roman": "Dios ing makabalu",
               "en": "God knows",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/dios-ing-makabalu.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pakikiramay",
               "roman": "pakikiramay",
               "en": "condolences",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pakikiramay.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "pamilya",
               "roman": "pamilya",
               "en": "family",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/pamilya.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             },
             {
               "id": "kapampangan",
               "roman": "Kapampangan",
               "en": "the Kapampangan language / people",
-              "status": "draft"
+              "status": "draft",
+              "audio": "audio/kapampangan.m4a",
+              "audioSource": "generated",
+              "audioCredit": "Computer voice: Meta MMS Kapampangan (facebook/mms-tts-pam, CC BY-NC 4.0)"
             }
           ]
         }

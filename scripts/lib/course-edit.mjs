@@ -33,6 +33,8 @@ export function applyToCourse(corrections, { dryRun = false } = {}) {
         writeFileSync(new URL(rel.slice('audio/'.length), AUDIO_DIR), c.audio.bytes)
       }
       item.audio = rel
+      item.audioSource = 'native'
+      item.audioCredit = c.by ? `Recorded by ${c.by}` : 'Recorded by a MayapLingo reviewer'
       withAudio++
     }
     item.status = 'reviewed'

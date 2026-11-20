@@ -9,6 +9,10 @@ export interface Item {
   alts?: string[]
   /** Bundled native recording, relative to the app base (e.g. "audio/salaam.m4a"). */
   audio?: string
+  /** Where the bundled recording comes from: a person ("native") or the MMS computer voice ("generated"). */
+  audioSource?: 'native' | 'generated'
+  /** Attribution for the bundled recording (required by its licence). */
+  audioCredit?: string
   status: Status
 }
 

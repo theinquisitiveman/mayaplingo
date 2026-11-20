@@ -54,6 +54,22 @@ Phrases use the modern "K" spelling (*Kapampangan*, *kumusta*) rather than the o
 starts as `"status": "draft"`. Drafts were written from general knowledge and partly checked against the sources
 listed in the file. **They have not been verified by a native speaker yet.**
 
+## Pronunciation audio
+Every phrase's audio is labelled in the app by where it came from:
+- **Native audio:** real speakers. This includes recordings published from reviewers' accounts (`publish-account`)
+  and the five CC BY-SA recordings by *lgriot* on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Kapampangan_pronunciation)
+  (*dyip, ngeni, obra, siyam, siyempre*), credited in each item's `audioCredit`.
+- **Computer voice:** generated with Meta's [MMS](https://huggingface.co/facebook/mms-tts-pam) Kapampangan voice.
+  A take is kept only if Meta's separate MMS speech recogniser transcribes it about as accurately as it does native
+  speakers. Phrases with no passing take get no audio and are listed for a human recording.
+
+To voice new phrases (it never overwrites native audio):
+```bash
+uv run --python 3.12 --with torch --with transformers --with scipy --with soundfile scripts/generate-audio.py
+npm run check-content
+```
+The MMS models are CC BY-NC 4.0, so they're fine for a free app. Replace the computer voices before charging for it.
+
 ## The correction loop ("fix it and learn from it")
 1. **In the app**, anyone can tap **🚩 Fix this phrase** after any exercise, or ✎ in the **Phrases** tab, to correct the
    spelling, meaning or notes, add accepted alternatives, and **record the real Kapampangan pronunciation**.

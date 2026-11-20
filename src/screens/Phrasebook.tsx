@@ -45,6 +45,7 @@ export function Phrasebook() {
                     </div>
                     <div className="text-sm text-wolf">{i.en}</div>
                     {i.notes && <div className="text-xs text-hare">{i.notes}</div>}
+                    {i.audioSource === 'native' && i.audioCredit && !recordings.has(i.id) && <div className="text-[10px] text-hare">🎙 {i.audioCredit}</div>}
                     <div className="mt-1 flex gap-1 text-[10px] font-black uppercase">
                       {corrections[i.id] ? (
                         <span className="rounded bg-fox/15 px-1.5 py-0.5 text-fox">Your fix</span>
@@ -53,7 +54,13 @@ export function Phrasebook() {
                       ) : (
                         <span className="rounded bg-swan px-1.5 py-0.5 text-wolf">Draft</span>
                       )}
-                      {(recordings.has(i.id) || i.audio) && <span className="rounded bg-sky/15 px-1.5 py-0.5 text-sky-dark">Audio</span>}
+                      {recordings.has(i.id) ? (
+                        <span className="rounded bg-sky/15 px-1.5 py-0.5 text-sky-dark">Your recording</span>
+                      ) : i.audioSource === 'native' ? (
+                        <span className="rounded bg-sky/15 px-1.5 py-0.5 text-sky-dark">Native audio</span>
+                      ) : i.audioSource === 'generated' ? (
+                        <span className="rounded bg-beetle/15 px-1.5 py-0.5 text-[#a568cc]">Computer voice</span>
+                      ) : null}
                     </div>
                   </div>
                   <button type="button" aria-label={`Fix ${i.roman}`} className="chip px-3 text-sky" onClick={() => setFixing(i.id)}>✎</button>
