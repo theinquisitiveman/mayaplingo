@@ -1,0 +1,2051 @@
+{
+  "version": 1,
+  "about": "Conversational Kapampangan (the language of Pampanga) for heritage learners, in the modern 'K' spelling. All items start as 'draft' and become 'reviewed' once a native speaker confirms them (in-app fixes + npm run publish-account).",
+  "sources": [
+    "Author knowledge of Kapampangan (unverified draft)",
+    "Wikibooks, Kapampangan (greetings, introducing yourself): https://en.wikibooks.org/wiki/Kapampangan",
+    "Austronesian Basic Vocabulary Database, Kapampangan: https://abvd.eva.mpg.de/austronesian/language.php?id=1200",
+    "Let's Go Pampanga, Kapampangan common greetings: https://www.letsgopampanga.com/kapampangan-common-greetings-5962/",
+    "Wikipedia, Kapampangan language: https://en.wikipedia.org/wiki/Kapampangan_language"
+  ],
+  "units": [
+    {
+      "id": "u1",
+      "title": "Greetings & respect",
+      "titleNative": "Pamagpugay",
+      "color": "green",
+      "lessons": [
+        {
+          "id": "u1-l1",
+          "title": "Good morning",
+          "items": [
+            {
+              "id": "mayap-a-abak",
+              "roman": "mayap a abak",
+              "en": "good morning",
+              "status": "draft",
+              "notes": "'Mayap' means good; 'abak' is morning.",
+              "alts": [
+                "mayap a yabak"
+              ]
+            },
+            {
+              "id": "mayap-a-ugtu",
+              "roman": "mayap a ugtu",
+              "en": "good noon",
+              "status": "draft"
+            },
+            {
+              "id": "mayap-a-gatpanapun",
+              "roman": "mayap a gatpanapun",
+              "en": "good afternoon",
+              "status": "draft"
+            },
+            {
+              "id": "mayap-a-bengi",
+              "roman": "mayap a bengi",
+              "en": "good evening / good night",
+              "status": "draft"
+            },
+            {
+              "id": "wa",
+              "roman": "wa",
+              "en": "yes",
+              "status": "draft"
+            },
+            {
+              "id": "ali",
+              "roman": "ali",
+              "en": "no",
+              "status": "draft",
+              "notes": "To negate a verb use 'e': e ku balu (I don't know)."
+            }
+          ]
+        },
+        {
+          "id": "u1-l2",
+          "title": "How are you?",
+          "items": [
+            {
+              "id": "kumusta-ka",
+              "roman": "kumusta ka?",
+              "en": "how are you?",
+              "status": "draft",
+              "notes": "To several people: kumusta kayu?",
+              "alts": [
+                "komusta ka?",
+                "cumusta ca?"
+              ]
+            },
+            {
+              "id": "kumusta-kayu-pu",
+              "roman": "kumusta kayu pu?",
+              "en": "how are you? (respectful)",
+              "status": "draft",
+              "notes": "'pu' shows respect, like Tagalog 'po'."
+            },
+            {
+              "id": "mayap-ku",
+              "roman": "mayap ku",
+              "en": "I'm fine",
+              "status": "draft"
+            },
+            {
+              "id": "mayap-ku-naman",
+              "roman": "mayap ku naman",
+              "en": "I'm fine too",
+              "status": "draft"
+            },
+            {
+              "id": "ika-naman",
+              "roman": "ika naman?",
+              "en": "and you?",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ing-balita",
+              "roman": "nanu ing balita?",
+              "en": "what's the news?",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u1-l3",
+          "title": "Thanks & goodbye",
+          "items": [
+            {
+              "id": "salamat",
+              "roman": "salamat",
+              "en": "thank you",
+              "status": "draft"
+            },
+            {
+              "id": "dakal-a-salamat",
+              "roman": "dakal a salamat",
+              "en": "thank you very much",
+              "status": "draft"
+            },
+            {
+              "id": "alang-anuman",
+              "roman": "alang anuman",
+              "en": "you're welcome",
+              "status": "draft"
+            },
+            {
+              "id": "pasensya-na",
+              "roman": "pasensya na",
+              "en": "sorry",
+              "status": "draft"
+            },
+            {
+              "id": "mako-na-ku",
+              "roman": "mako na ku",
+              "en": "I'm leaving now",
+              "status": "draft"
+            },
+            {
+              "id": "mimingat-ka",
+              "roman": "mimingat ka",
+              "en": "take care",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u1-l4",
+          "title": "Names",
+          "items": [
+            {
+              "id": "nanu-ing-lagyu-mu",
+              "roman": "nanu ing lagyu mu?",
+              "en": "what's your name?",
+              "status": "draft",
+              "alts": [
+                "nanung lagyu mu?"
+              ]
+            },
+            {
+              "id": "ana-ing-lagyu-ku",
+              "roman": "Ana ing lagyu ku",
+              "en": "my name is Ana",
+              "status": "draft"
+            },
+            {
+              "id": "ninu-ka",
+              "roman": "ninu ka?",
+              "en": "who are you?",
+              "status": "draft"
+            },
+            {
+              "id": "malaus-ka",
+              "roman": "malaus ka",
+              "en": "welcome",
+              "status": "draft"
+            },
+            {
+              "id": "masaya-ku-at-akilala-da-ka",
+              "roman": "masaya ku at akilala da ka",
+              "en": "nice to meet you",
+              "status": "draft",
+              "notes": "'da ka' means 'I … you' in one word pair."
+            },
+            {
+              "id": "pu",
+              "roman": "pu",
+              "en": "(word of respect for elders)",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": "Family",
+      "titleNative": "Ing pamilya",
+      "color": "blue",
+      "lessons": [
+        {
+          "id": "u2-l1",
+          "title": "Parents & siblings",
+          "items": [
+            {
+              "id": "ima",
+              "roman": "ima",
+              "en": "mother",
+              "status": "draft"
+            },
+            {
+              "id": "tata",
+              "roman": "tata",
+              "en": "father",
+              "status": "draft"
+            },
+            {
+              "id": "kapatad",
+              "roman": "kapatad",
+              "en": "sibling",
+              "status": "draft"
+            },
+            {
+              "id": "kaka",
+              "roman": "kaka",
+              "en": "older sibling",
+              "status": "draft"
+            },
+            {
+              "id": "wali",
+              "roman": "wali",
+              "en": "younger sibling",
+              "status": "draft"
+            },
+            {
+              "id": "anak",
+              "roman": "anak",
+              "en": "child",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u2-l2",
+          "title": "Relatives",
+          "items": [
+            {
+              "id": "apu",
+              "roman": "apu",
+              "en": "grandparent",
+              "status": "draft",
+              "notes": "Also used for grandchild, and as a respectful title."
+            },
+            {
+              "id": "bapa",
+              "roman": "bapa",
+              "en": "uncle",
+              "status": "draft"
+            },
+            {
+              "id": "dara",
+              "roman": "dara",
+              "en": "aunt",
+              "status": "draft"
+            },
+            {
+              "id": "pinsan",
+              "roman": "pinsan",
+              "en": "cousin",
+              "status": "draft"
+            },
+            {
+              "id": "asawa",
+              "roman": "asawa",
+              "en": "spouse",
+              "status": "draft"
+            },
+            {
+              "id": "pengari",
+              "roman": "pengari",
+              "en": "parents",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u2-l3",
+          "title": "My family",
+          "items": [
+            {
+              "id": "ing-ima-ku",
+              "roman": "ing ima ku",
+              "en": "my mother",
+              "status": "draft"
+            },
+            {
+              "id": "ing-tata-mu",
+              "roman": "ing tata mu",
+              "en": "your father",
+              "status": "draft"
+            },
+            {
+              "id": "ing-pamilya-ku",
+              "roman": "ing pamilya ku",
+              "en": "my family",
+              "status": "draft"
+            },
+            {
+              "id": "bale",
+              "roman": "bale",
+              "en": "house / home",
+              "status": "draft"
+            },
+            {
+              "id": "mayap-ya-ing-ima-ku",
+              "roman": "mayap ya ing ima ku",
+              "en": "my mother is well",
+              "status": "draft"
+            },
+            {
+              "id": "kumusta-ya-ing-pamilya-mu",
+              "roman": "kumusta ya ing pamilya mu?",
+              "en": "how is your family?",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u2-l4",
+          "title": "Talking about family",
+          "items": [
+            {
+              "id": "iti-ing-kapatad-ku",
+              "roman": "iti ing kapatad ku",
+              "en": "this is my sibling",
+              "status": "draft"
+            },
+            {
+              "id": "pilan-la-ding-kapatad-mu",
+              "roman": "pilan la ding kapatad mu?",
+              "en": "how many siblings do you have?",
+              "status": "draft"
+            },
+            {
+              "id": "adwa-la-ding-kapatad-ku",
+              "roman": "adwa la ding kapatad ku",
+              "en": "I have two siblings",
+              "status": "draft"
+            },
+            {
+              "id": "atin-kang-anak",
+              "roman": "atin kang anak?",
+              "en": "do you have children?",
+              "status": "draft"
+            },
+            {
+              "id": "kapitbale",
+              "roman": "kapitbale",
+              "en": "neighbour",
+              "status": "draft",
+              "notes": "From 'bale', house."
+            },
+            {
+              "id": "bisita",
+              "roman": "bisita",
+              "en": "guest",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "title": "Me & you",
+      "titleNative": "Aku at ika",
+      "color": "purple",
+      "lessons": [
+        {
+          "id": "u3-l1",
+          "title": "Pronouns",
+          "items": [
+            {
+              "id": "aku",
+              "roman": "aku",
+              "en": "I",
+              "status": "draft"
+            },
+            {
+              "id": "ika",
+              "roman": "ika",
+              "en": "you",
+              "status": "draft"
+            },
+            {
+              "id": "iya",
+              "roman": "iya",
+              "en": "he / she",
+              "status": "draft"
+            },
+            {
+              "id": "ikami",
+              "roman": "ikami",
+              "en": "we (not including you)",
+              "status": "draft"
+            },
+            {
+              "id": "ikatamu",
+              "roman": "ikatamu",
+              "en": "we (including you)",
+              "status": "draft"
+            },
+            {
+              "id": "ila",
+              "roman": "ila",
+              "en": "they",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u3-l2",
+          "title": "Where are you from?",
+          "items": [
+            {
+              "id": "taga-nokarin-ka",
+              "roman": "taga-nokarin ka?",
+              "en": "where are you from?",
+              "status": "draft"
+            },
+            {
+              "id": "taga-angeles-ku",
+              "roman": "taga-Angeles ku",
+              "en": "I'm from Angeles",
+              "status": "draft"
+            },
+            {
+              "id": "taga-san-fernando-ku",
+              "roman": "taga-San Fernando ku",
+              "en": "I'm from San Fernando",
+              "status": "draft"
+            },
+            {
+              "id": "kapampangan-ku",
+              "roman": "Kapampangan ku",
+              "en": "I'm Kapampangan",
+              "status": "draft"
+            },
+            {
+              "id": "nokarin-ka-makatuknang",
+              "roman": "nokarin ka makatuknang?",
+              "en": "where do you live?",
+              "status": "draft"
+            },
+            {
+              "id": "makatuknang-ku-king-amerika",
+              "roman": "makatuknang ku king Amerika",
+              "en": "I live in America",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u3-l3",
+          "title": "Learning Kapampangan",
+          "items": [
+            {
+              "id": "mag-aral-ku-ning-kapampangan",
+              "roman": "mag-aral ku ning Kapampangan",
+              "en": "I'm studying Kapampangan",
+              "status": "draft"
+            },
+            {
+              "id": "ditak-mu-ing-balu-ku",
+              "roman": "ditak mu ing balu ku",
+              "en": "I only know a little",
+              "status": "draft"
+            },
+            {
+              "id": "balu-ku",
+              "roman": "balu ku",
+              "en": "I know",
+              "status": "draft"
+            },
+            {
+              "id": "e-ku-balu",
+              "roman": "e ku balu",
+              "en": "I don't know",
+              "status": "draft"
+            },
+            {
+              "id": "pakisabi-mu-pasibayu",
+              "roman": "pakisabi mu pasibayu",
+              "en": "please say it again",
+              "status": "draft",
+              "notes": "'pasibayu' = again."
+            },
+            {
+              "id": "e-ku-aintindian",
+              "roman": "e ku aintindian",
+              "en": "I don't understand",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u3-l4",
+          "title": "About yourself",
+          "items": [
+            {
+              "id": "pilan-na-kang-banwa",
+              "roman": "pilan na kang banwa?",
+              "en": "how old are you?",
+              "status": "draft",
+              "notes": "'banwa' = year."
+            },
+            {
+              "id": "adwang-pulu-ku-banwa",
+              "roman": "adwang pulu ku banwa",
+              "en": "I'm twenty years old",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ing-obra-mu",
+              "roman": "nanu ing obra mu?",
+              "en": "what's your job?",
+              "status": "draft"
+            },
+            {
+              "id": "estudyanti-ku",
+              "roman": "estudyanti ku",
+              "en": "I'm a student",
+              "status": "draft"
+            },
+            {
+              "id": "maestra-ku",
+              "roman": "maestra ku",
+              "en": "I'm a teacher (woman)",
+              "status": "draft",
+              "notes": "A man says: maestru ku."
+            },
+            {
+              "id": "obra",
+              "roman": "obra",
+              "en": "work / job",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "title": "Food & drink",
+      "titleNative": "Pamangan",
+      "color": "orange",
+      "lessons": [
+        {
+          "id": "u4-l1",
+          "title": "Drinks",
+          "items": [
+            {
+              "id": "danum",
+              "roman": "danum",
+              "en": "water",
+              "status": "draft"
+            },
+            {
+              "id": "kape",
+              "roman": "kape",
+              "en": "coffee",
+              "status": "draft"
+            },
+            {
+              "id": "gatas",
+              "roman": "gatas",
+              "en": "milk",
+              "status": "draft"
+            },
+            {
+              "id": "buri-mung-kape",
+              "roman": "buri mung kape?",
+              "en": "would you like coffee?",
+              "status": "draft"
+            },
+            {
+              "id": "wa-salamat",
+              "roman": "wa, salamat",
+              "en": "yes, thank you",
+              "status": "draft"
+            },
+            {
+              "id": "ali-salamat",
+              "roman": "ali, salamat",
+              "en": "no, thank you",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u4-l2",
+          "title": "Food",
+          "items": [
+            {
+              "id": "nasi",
+              "roman": "nasi",
+              "en": "cooked rice",
+              "status": "draft",
+              "notes": "Uncooked rice is 'abias'."
+            },
+            {
+              "id": "asan",
+              "roman": "asan",
+              "en": "fish",
+              "status": "draft"
+            },
+            {
+              "id": "manuk",
+              "roman": "manuk",
+              "en": "chicken",
+              "status": "draft"
+            },
+            {
+              "id": "babi",
+              "roman": "babi",
+              "en": "pork",
+              "status": "draft"
+            },
+            {
+              "id": "ebun",
+              "roman": "ebun",
+              "en": "egg",
+              "status": "draft"
+            },
+            {
+              "id": "gulay",
+              "roman": "gulay",
+              "en": "vegetables",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u4-l3",
+          "title": "Hungry & full",
+          "items": [
+            {
+              "id": "danupan-ku",
+              "roman": "danupan ku",
+              "en": "I'm hungry",
+              "status": "draft"
+            },
+            {
+              "id": "makauaw-ku",
+              "roman": "makauaw ku",
+              "en": "I'm thirsty",
+              "status": "draft"
+            },
+            {
+              "id": "mabsi-ku-na",
+              "roman": "mabsi ku na",
+              "en": "I'm full",
+              "status": "draft"
+            },
+            {
+              "id": "mangan-ta-na",
+              "roman": "mangan ta na",
+              "en": "let's eat",
+              "status": "draft"
+            },
+            {
+              "id": "manyaman",
+              "roman": "manyaman",
+              "en": "delicious",
+              "status": "draft"
+            },
+            {
+              "id": "mangan-ka-pa",
+              "roman": "mangan ka pa",
+              "en": "have some more",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u4-l4",
+          "title": "Kapampangan dishes",
+          "items": [
+            {
+              "id": "sisig",
+              "roman": "sisig",
+              "en": "sisig (sizzling chopped pork)",
+              "status": "draft",
+              "notes": "Created in Angeles City."
+            },
+            {
+              "id": "kare-kare",
+              "roman": "kare-kare",
+              "en": "oxtail peanut stew",
+              "status": "draft"
+            },
+            {
+              "id": "pindang",
+              "roman": "pindang",
+              "en": "sweet cured pork",
+              "status": "draft",
+              "notes": "Known elsewhere as tocino."
+            },
+            {
+              "id": "buru",
+              "roman": "buru",
+              "en": "fermented rice with fish",
+              "status": "draft"
+            },
+            {
+              "id": "tibuk-tibuk",
+              "roman": "tibuk-tibuk",
+              "en": "carabao-milk pudding",
+              "status": "draft"
+            },
+            {
+              "id": "bulanglang",
+              "roman": "bulanglang",
+              "en": "sour guava soup",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "title": "Everyday verbs",
+      "titleNative": "Gagawan aldo-aldo",
+      "color": "red",
+      "lessons": [
+        {
+          "id": "u5-l1",
+          "title": "Going & coming",
+          "items": [
+            {
+              "id": "munta-ku",
+              "roman": "munta ku",
+              "en": "I'm going",
+              "status": "draft"
+            },
+            {
+              "id": "mumuli-na-ku",
+              "roman": "mumuli na ku",
+              "en": "I'm going home now",
+              "status": "draft"
+            },
+            {
+              "id": "mekeni-ka",
+              "roman": "mekeni ka",
+              "en": "come here",
+              "status": "draft"
+            },
+            {
+              "id": "nokarin-ka-munta",
+              "roman": "nokarin ka munta?",
+              "en": "where are you going?",
+              "status": "draft"
+            },
+            {
+              "id": "munta-ku-king-palengke",
+              "roman": "munta ku king palengke",
+              "en": "I'm going to the market",
+              "status": "draft"
+            },
+            {
+              "id": "munta-ka",
+              "roman": "munta ka?",
+              "en": "are you going?",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u5-l2",
+          "title": "Wanting & doing",
+          "items": [
+            {
+              "id": "mangan",
+              "roman": "mangan",
+              "en": "to eat",
+              "status": "draft"
+            },
+            {
+              "id": "matudtud",
+              "roman": "matudtud",
+              "en": "to sleep",
+              "status": "draft"
+            },
+            {
+              "id": "mag-obra",
+              "roman": "mag-obra",
+              "en": "to work",
+              "status": "draft"
+            },
+            {
+              "id": "buri-ku",
+              "roman": "buri ku",
+              "en": "I want / I like",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ing-buri-mu",
+              "roman": "nanu ing buri mu?",
+              "en": "what do you want?",
+              "status": "draft"
+            },
+            {
+              "id": "e-ku-buri",
+              "roman": "e ku buri",
+              "en": "I don't want",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u5-l3",
+          "title": "Can & have",
+          "items": [
+            {
+              "id": "agyu-ku",
+              "roman": "agyu ku",
+              "en": "I can",
+              "status": "draft"
+            },
+            {
+              "id": "e-ku-agyu",
+              "roman": "e ku agyu",
+              "en": "I can't",
+              "status": "draft"
+            },
+            {
+              "id": "atin",
+              "roman": "atin",
+              "en": "there is / have",
+              "status": "draft"
+            },
+            {
+              "id": "ala",
+              "roman": "ala",
+              "en": "there's none",
+              "status": "draft"
+            },
+            {
+              "id": "ala-kung-pera",
+              "roman": "ala kung pera",
+              "en": "I have no money",
+              "status": "draft"
+            },
+            {
+              "id": "atin-kang-oras",
+              "roman": "atin kang oras?",
+              "en": "do you have time?",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u5-l4",
+          "title": "Today & tomorrow",
+          "items": [
+            {
+              "id": "ngeni",
+              "roman": "ngeni",
+              "en": "now / today",
+              "status": "draft"
+            },
+            {
+              "id": "bukas",
+              "roman": "bukas",
+              "en": "tomorrow",
+              "status": "draft"
+            },
+            {
+              "id": "napun",
+              "roman": "napun",
+              "en": "yesterday",
+              "status": "draft"
+            },
+            {
+              "id": "ngeni-bengi",
+              "roman": "ngeni bengi",
+              "en": "tonight",
+              "status": "draft"
+            },
+            {
+              "id": "munta-ku-bukas",
+              "roman": "munta ku bukas",
+              "en": "I'll go tomorrow",
+              "status": "draft"
+            },
+            {
+              "id": "agad",
+              "roman": "agad",
+              "en": "right away",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "title": "Numbers & the market",
+      "titleNative": "Bilang at palengke",
+      "color": "gold",
+      "lessons": [
+        {
+          "id": "u6-l1",
+          "title": "One to five",
+          "items": [
+            {
+              "id": "metung",
+              "roman": "metung",
+              "en": "one",
+              "status": "draft"
+            },
+            {
+              "id": "adwa",
+              "roman": "adwa",
+              "en": "two",
+              "status": "draft"
+            },
+            {
+              "id": "atlu",
+              "roman": "atlu",
+              "en": "three",
+              "status": "draft"
+            },
+            {
+              "id": "apat",
+              "roman": "apat",
+              "en": "four",
+              "status": "draft"
+            },
+            {
+              "id": "lima",
+              "roman": "lima",
+              "en": "five",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u6-l2",
+          "title": "Six to a hundred",
+          "items": [
+            {
+              "id": "anam",
+              "roman": "anam",
+              "en": "six",
+              "status": "draft"
+            },
+            {
+              "id": "pitu",
+              "roman": "pitu",
+              "en": "seven",
+              "status": "draft"
+            },
+            {
+              "id": "walu",
+              "roman": "walu",
+              "en": "eight",
+              "status": "draft"
+            },
+            {
+              "id": "siyam",
+              "roman": "siyam",
+              "en": "nine",
+              "status": "draft"
+            },
+            {
+              "id": "apulu",
+              "roman": "apulu",
+              "en": "ten",
+              "status": "draft"
+            },
+            {
+              "id": "adwang-pulu",
+              "roman": "adwang pulu",
+              "en": "twenty",
+              "status": "draft"
+            },
+            {
+              "id": "dinalan",
+              "roman": "dinalan",
+              "en": "one hundred",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u6-l3",
+          "title": "At the market",
+          "items": [
+            {
+              "id": "magkanu-ya-ini",
+              "roman": "magkanu ya ini?",
+              "en": "how much is this?",
+              "status": "draft"
+            },
+            {
+              "id": "mal-ya",
+              "roman": "mal ya",
+              "en": "it's expensive",
+              "status": "draft"
+            },
+            {
+              "id": "mura-ya",
+              "roman": "mura ya",
+              "en": "it's cheap",
+              "status": "draft"
+            },
+            {
+              "id": "pera",
+              "roman": "pera",
+              "en": "money",
+              "status": "draft"
+            },
+            {
+              "id": "saliwan-ke-ini",
+              "roman": "saliwan ke ini",
+              "en": "I'll buy this",
+              "status": "draft"
+            },
+            {
+              "id": "palengke",
+              "roman": "palengke",
+              "en": "market",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u6-l4",
+          "title": "Paying",
+          "items": [
+            {
+              "id": "atin-pang-mas-mura",
+              "roman": "atin pang mas mura?",
+              "en": "is there anything cheaper?",
+              "status": "draft"
+            },
+            {
+              "id": "bawasan-mu-pa",
+              "roman": "bawasan mu pa",
+              "en": "lower the price a little",
+              "status": "draft"
+            },
+            {
+              "id": "kulang-ya",
+              "roman": "kulang ya",
+              "en": "it's not enough",
+              "status": "draft"
+            },
+            {
+              "id": "sukli",
+              "roman": "sukli",
+              "en": "change (money back)",
+              "status": "draft"
+            },
+            {
+              "id": "piso",
+              "roman": "piso",
+              "en": "peso",
+              "status": "draft"
+            },
+            {
+              "id": "bayad",
+              "roman": "bayad",
+              "en": "payment",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "title": "Getting around",
+      "titleNative": "Paglakbe",
+      "color": "blue",
+      "lessons": [
+        {
+          "id": "u7-l1",
+          "title": "Here & there",
+          "items": [
+            {
+              "id": "nokarin",
+              "roman": "nokarin?",
+              "en": "where?",
+              "status": "draft"
+            },
+            {
+              "id": "keni",
+              "roman": "keni",
+              "en": "here",
+              "status": "draft"
+            },
+            {
+              "id": "karin",
+              "roman": "karin",
+              "en": "there",
+              "status": "draft"
+            },
+            {
+              "id": "marayu",
+              "roman": "marayu",
+              "en": "far",
+              "status": "draft"
+            },
+            {
+              "id": "malapit",
+              "roman": "malapit",
+              "en": "near",
+              "status": "draft"
+            },
+            {
+              "id": "nokarin-ya-ing-cr",
+              "roman": "nokarin ya ing CR?",
+              "en": "where is the restroom?",
+              "status": "draft",
+              "notes": "'CR' (comfort room) is the usual Philippine word."
+            }
+          ]
+        },
+        {
+          "id": "u7-l2",
+          "title": "Directions",
+          "items": [
+            {
+              "id": "wanan",
+              "roman": "wanan",
+              "en": "right",
+              "status": "draft"
+            },
+            {
+              "id": "kaliwa",
+              "roman": "kaliwa",
+              "en": "left",
+              "status": "draft"
+            },
+            {
+              "id": "deretsu",
+              "roman": "deretsu",
+              "en": "straight ahead",
+              "status": "draft"
+            },
+            {
+              "id": "liku-ka-king-wanan",
+              "roman": "liku ka king wanan",
+              "en": "turn right",
+              "status": "draft"
+            },
+            {
+              "id": "para-pu",
+              "roman": "para pu!",
+              "en": "stop here, please",
+              "status": "draft",
+              "notes": "Said to a jeepney driver."
+            },
+            {
+              "id": "dalan",
+              "roman": "dalan",
+              "en": "road / street",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u7-l3",
+          "title": "Getting a ride",
+          "items": [
+            {
+              "id": "dyip",
+              "roman": "dyip",
+              "en": "jeepney",
+              "status": "draft"
+            },
+            {
+              "id": "traysikel",
+              "roman": "traysikel",
+              "en": "tricycle",
+              "status": "draft"
+            },
+            {
+              "id": "kotse",
+              "roman": "kotse",
+              "en": "car",
+              "status": "draft"
+            },
+            {
+              "id": "pasahi",
+              "roman": "pasahi",
+              "en": "fare",
+              "status": "draft"
+            },
+            {
+              "id": "lakad",
+              "roman": "lakad",
+              "en": "on foot",
+              "status": "draft"
+            },
+            {
+              "id": "bus",
+              "roman": "bus",
+              "en": "bus",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u7-l4",
+          "title": "Places",
+          "items": [
+            {
+              "id": "pisamban",
+              "roman": "pisamban",
+              "en": "church",
+              "status": "draft"
+            },
+            {
+              "id": "eskwelahan",
+              "roman": "eskwelahan",
+              "en": "school",
+              "status": "draft"
+            },
+            {
+              "id": "ospital",
+              "roman": "ospital",
+              "en": "hospital",
+              "status": "draft"
+            },
+            {
+              "id": "bunduk",
+              "roman": "bunduk",
+              "en": "mountain",
+              "status": "draft"
+            },
+            {
+              "id": "ilug",
+              "roman": "ilug",
+              "en": "river",
+              "status": "draft"
+            },
+            {
+              "id": "bunduk-arayat",
+              "roman": "Bunduk Arayat",
+              "en": "Mount Arayat",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "title": "Yesterday (past tense)",
+      "titleNative": "Napun",
+      "color": "purple",
+      "lessons": [
+        {
+          "id": "u8-l1",
+          "title": "What did you do?",
+          "items": [
+            {
+              "id": "mengan-ku",
+              "roman": "mengan ku",
+              "en": "I ate",
+              "status": "draft"
+            },
+            {
+              "id": "minta-ku",
+              "roman": "minta ku",
+              "en": "I went",
+              "status": "draft"
+            },
+            {
+              "id": "metudtud-ku",
+              "roman": "metudtud ku",
+              "en": "I slept",
+              "status": "draft"
+            },
+            {
+              "id": "meg-obra-ku",
+              "roman": "meg-obra ku",
+              "en": "I worked",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ing-gewa-mu",
+              "roman": "nanu ing gewa mu?",
+              "en": "what did you do?",
+              "status": "draft"
+            },
+            {
+              "id": "minta-ku-king-palengke-napun",
+              "roman": "minta ku king palengke napun",
+              "en": "I went to the market yesterday",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u8-l2",
+          "title": "Have you eaten?",
+          "items": [
+            {
+              "id": "mengan-ka-na",
+              "roman": "mengan ka na?",
+              "en": "have you eaten?",
+              "status": "draft",
+              "notes": "A common, caring greeting."
+            },
+            {
+              "id": "e-ku-pa-mengan",
+              "roman": "e ku pa mengan",
+              "en": "I haven't eaten yet",
+              "status": "draft"
+            },
+            {
+              "id": "akit-ke",
+              "roman": "akit ke",
+              "en": "I saw it / him / her",
+              "status": "draft"
+            },
+            {
+              "id": "sinabi-ku",
+              "roman": "sinabi ku",
+              "en": "I said it",
+              "status": "draft"
+            },
+            {
+              "id": "pasibayu",
+              "roman": "pasibayu",
+              "en": "again",
+              "status": "draft"
+            },
+            {
+              "id": "kanita",
+              "roman": "kanita",
+              "en": "earlier",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u9",
+      "title": "Small talk & feelings",
+      "titleNative": "Kuwentuhan",
+      "color": "green",
+      "lessons": [
+        {
+          "id": "u9-l1",
+          "title": "Chatting",
+          "items": [
+            {
+              "id": "nanu-ing-gagawan-mu",
+              "roman": "nanu ing gagawan mu?",
+              "en": "what are you doing?",
+              "status": "draft"
+            },
+            {
+              "id": "ala-mu",
+              "roman": "ala mu",
+              "en": "nothing much",
+              "status": "draft"
+            },
+            {
+              "id": "tutu",
+              "roman": "tutu?",
+              "en": "really?",
+              "status": "draft"
+            },
+            {
+              "id": "kumusta-ing-obra",
+              "roman": "kumusta ing obra?",
+              "en": "how's work?",
+              "status": "draft"
+            },
+            {
+              "id": "sige",
+              "roman": "sige",
+              "en": "okay",
+              "status": "draft"
+            },
+            {
+              "id": "siyempre",
+              "roman": "siyempre",
+              "en": "of course",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u9-l2",
+          "title": "Feelings",
+          "items": [
+            {
+              "id": "masaya-ku",
+              "roman": "masaya ku",
+              "en": "I'm happy",
+              "status": "draft"
+            },
+            {
+              "id": "malungkut-ku",
+              "roman": "malungkut ku",
+              "en": "I'm sad",
+              "status": "draft"
+            },
+            {
+              "id": "mapagal-ku",
+              "roman": "mapagal ku",
+              "en": "I'm tired",
+              "status": "draft"
+            },
+            {
+              "id": "masakit-ku",
+              "roman": "masakit ku",
+              "en": "I'm sick",
+              "status": "draft"
+            },
+            {
+              "id": "malagu-ka",
+              "roman": "malagu ka",
+              "en": "you're beautiful",
+              "status": "draft"
+            },
+            {
+              "id": "masanting-ya",
+              "roman": "masanting ya",
+              "en": "he's handsome",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u9-l3",
+          "title": "True or not",
+          "items": [
+            {
+              "id": "tutu-ya",
+              "roman": "tutu ya",
+              "en": "it's true",
+              "status": "draft"
+            },
+            {
+              "id": "e-tutu",
+              "roman": "e tutu",
+              "en": "that's not true",
+              "status": "draft"
+            },
+            {
+              "id": "ali-bale",
+              "roman": "ali bale",
+              "en": "never mind, it doesn't matter",
+              "status": "draft"
+            },
+            {
+              "id": "siguru",
+              "roman": "siguru",
+              "en": "maybe",
+              "status": "draft"
+            },
+            {
+              "id": "kaluguran-da-ka",
+              "roman": "kaluguran da ka",
+              "en": "I love you",
+              "status": "draft",
+              "alts": [
+                "caluguran da ca"
+              ]
+            },
+            {
+              "id": "buri-da-ka",
+              "roman": "buri da ka",
+              "en": "I like you",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u10",
+      "title": "Asking questions",
+      "titleNative": "Pamagkutang",
+      "color": "blue",
+      "lessons": [
+        {
+          "id": "u10-l1",
+          "title": "Question words",
+          "items": [
+            {
+              "id": "nanu",
+              "roman": "nanu?",
+              "en": "what?",
+              "status": "draft"
+            },
+            {
+              "id": "ninu",
+              "roman": "ninu?",
+              "en": "who?",
+              "status": "draft"
+            },
+            {
+              "id": "kapilan",
+              "roman": "kapilan?",
+              "en": "when?",
+              "status": "draft"
+            },
+            {
+              "id": "obat",
+              "roman": "obat?",
+              "en": "why?",
+              "status": "draft"
+            },
+            {
+              "id": "makananu",
+              "roman": "makananu?",
+              "en": "how?",
+              "status": "draft"
+            },
+            {
+              "id": "pilan",
+              "roman": "pilan?",
+              "en": "how many?",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u10-l2",
+          "title": "About things",
+          "items": [
+            {
+              "id": "nanu-ya-ini",
+              "roman": "nanu ya ini?",
+              "en": "what is this?",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ya-ita",
+              "roman": "nanu ya ita?",
+              "en": "what is that?",
+              "status": "draft"
+            },
+            {
+              "id": "ninu-ya-iti",
+              "roman": "ninu ya iti?",
+              "en": "who is this?",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ing-kayulugan-na",
+              "roman": "nanu ing kayulugan na?",
+              "en": "what does it mean?",
+              "status": "draft"
+            },
+            {
+              "id": "nanu-ya-ini-keng-kapampangan",
+              "roman": "nanu ya ini keng Kapampangan?",
+              "en": "what's this in Kapampangan?",
+              "status": "draft"
+            },
+            {
+              "id": "kapilan-ka-datang",
+              "roman": "kapilan ka datang?",
+              "en": "when will you arrive?",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u10-l3",
+          "title": "Asking permission",
+          "items": [
+            {
+              "id": "malyari",
+              "roman": "malyari?",
+              "en": "is it possible?",
+              "status": "draft"
+            },
+            {
+              "id": "wa-malyari",
+              "roman": "wa, malyari",
+              "en": "yes, it's possible",
+              "status": "draft"
+            },
+            {
+              "id": "e-malyari",
+              "roman": "e malyari",
+              "en": "it's not possible",
+              "status": "draft"
+            },
+            {
+              "id": "balu-mu",
+              "roman": "balu mu?",
+              "en": "do you know?",
+              "status": "draft"
+            },
+            {
+              "id": "buri-mu",
+              "roman": "buri mu?",
+              "en": "do you want it?",
+              "status": "draft"
+            },
+            {
+              "id": "atin-ka",
+              "roman": "atin ka?",
+              "en": "are you there?",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u11",
+      "title": "Guests & hospitality",
+      "titleNative": "Pamanyambut bisita",
+      "color": "orange",
+      "lessons": [
+        {
+          "id": "u11-l1",
+          "title": "Welcoming guests",
+          "items": [
+            {
+              "id": "malaus-kayu",
+              "roman": "malaus kayu",
+              "en": "welcome (to several)",
+              "status": "draft"
+            },
+            {
+              "id": "lukluk-ka",
+              "roman": "lukluk ka",
+              "en": "sit down",
+              "status": "draft"
+            },
+            {
+              "id": "lukluk-kayu-pu",
+              "roman": "lukluk kayu pu",
+              "en": "please sit (respectful)",
+              "status": "draft"
+            },
+            {
+              "id": "mangan-kayu-pu",
+              "roman": "mangan kayu pu",
+              "en": "please eat (respectful)",
+              "status": "draft"
+            },
+            {
+              "id": "e-ka-mabain",
+              "roman": "e ka mabain",
+              "en": "don't be shy",
+              "status": "draft"
+            },
+            {
+              "id": "pamangan",
+              "roman": "pamangan",
+              "en": "food / meal",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u11-l2",
+          "title": "Saying goodbye",
+          "items": [
+            {
+              "id": "mekeni-ka-pasibayu",
+              "roman": "mekeni ka pasibayu",
+              "en": "come again",
+              "status": "draft"
+            },
+            {
+              "id": "mimingat-kayu",
+              "roman": "mimingat kayu",
+              "en": "take care (to several)",
+              "status": "draft"
+            },
+            {
+              "id": "mako-na-kami",
+              "roman": "mako na kami",
+              "en": "we're leaving now",
+              "status": "draft"
+            },
+            {
+              "id": "pasalubong",
+              "roman": "pasalubong",
+              "en": "gift brought back for family",
+              "status": "draft"
+            },
+            {
+              "id": "manaya-ka",
+              "roman": "manaya ka",
+              "en": "wait",
+              "status": "draft"
+            },
+            {
+              "id": "datang-na-ku",
+              "roman": "datang na ku",
+              "en": "I've arrived",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u12",
+      "title": "Time & days",
+      "titleNative": "Oras at aldo",
+      "color": "purple",
+      "lessons": [
+        {
+          "id": "u12-l1",
+          "title": "Parts of the day",
+          "items": [
+            {
+              "id": "abak",
+              "roman": "abak",
+              "en": "morning",
+              "status": "draft"
+            },
+            {
+              "id": "ugtu",
+              "roman": "ugtu",
+              "en": "noon",
+              "status": "draft"
+            },
+            {
+              "id": "gatpanapun",
+              "roman": "gatpanapun",
+              "en": "afternoon",
+              "status": "draft"
+            },
+            {
+              "id": "bengi",
+              "roman": "bengi",
+              "en": "night",
+              "status": "draft"
+            },
+            {
+              "id": "aldo",
+              "roman": "aldo",
+              "en": "day / sun",
+              "status": "draft"
+            },
+            {
+              "id": "aldo-aldo",
+              "roman": "aldo-aldo",
+              "en": "every day",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u12-l2",
+          "title": "Days of the week",
+          "items": [
+            {
+              "id": "lunes",
+              "roman": "Lunes",
+              "en": "Monday",
+              "status": "draft"
+            },
+            {
+              "id": "martes",
+              "roman": "Martes",
+              "en": "Tuesday",
+              "status": "draft"
+            },
+            {
+              "id": "mierkules",
+              "roman": "Mierkules",
+              "en": "Wednesday",
+              "status": "draft"
+            },
+            {
+              "id": "huebes",
+              "roman": "Huebes",
+              "en": "Thursday",
+              "status": "draft"
+            },
+            {
+              "id": "biernes",
+              "roman": "Biernes",
+              "en": "Friday",
+              "status": "draft"
+            },
+            {
+              "id": "sabadu",
+              "roman": "Sabadu",
+              "en": "Saturday",
+              "status": "draft"
+            },
+            {
+              "id": "domingu",
+              "roman": "Domingu",
+              "en": "Sunday",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u12-l3",
+          "title": "Longer times",
+          "items": [
+            {
+              "id": "lingu",
+              "roman": "lingu",
+              "en": "week",
+              "status": "draft"
+            },
+            {
+              "id": "bulan",
+              "roman": "bulan",
+              "en": "month / moon",
+              "status": "draft"
+            },
+            {
+              "id": "banwa",
+              "roman": "banwa",
+              "en": "year",
+              "status": "draft"
+            },
+            {
+              "id": "nanung-oras-na",
+              "roman": "nanung oras na?",
+              "en": "what time is it?",
+              "status": "draft"
+            },
+            {
+              "id": "alas-dos",
+              "roman": "alas dos",
+              "en": "two o'clock",
+              "status": "draft"
+            },
+            {
+              "id": "alas-otso-ning-abak",
+              "roman": "alas otso ning abak",
+              "en": "eight in the morning",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u13",
+      "title": "Weather",
+      "titleNative": "Panaun",
+      "color": "blue",
+      "lessons": [
+        {
+          "id": "u13-l1",
+          "title": "The weather",
+          "items": [
+            {
+              "id": "mapali",
+              "roman": "mapali",
+              "en": "hot",
+              "status": "draft"
+            },
+            {
+              "id": "marimla",
+              "roman": "marimla",
+              "en": "cold",
+              "status": "draft"
+            },
+            {
+              "id": "mauran",
+              "roman": "mauran",
+              "en": "rainy",
+              "status": "draft"
+            },
+            {
+              "id": "uran",
+              "roman": "uran",
+              "en": "rain",
+              "status": "draft"
+            },
+            {
+              "id": "angin",
+              "roman": "angin",
+              "en": "wind",
+              "status": "draft"
+            },
+            {
+              "id": "masanting-ing-panaun",
+              "roman": "masanting ing panaun",
+              "en": "the weather is nice",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u13-l2",
+          "title": "Outside",
+          "items": [
+            {
+              "id": "bagyu",
+              "roman": "bagyu",
+              "en": "typhoon",
+              "status": "draft"
+            },
+            {
+              "id": "payung",
+              "roman": "payung",
+              "en": "umbrella",
+              "status": "draft"
+            },
+            {
+              "id": "mapali-ing-aldo",
+              "roman": "mapali ing aldo",
+              "en": "the sun is hot",
+              "status": "draft"
+            },
+            {
+              "id": "bunduk-pinatubo",
+              "roman": "Bunduk Pinatubo",
+              "en": "Mount Pinatubo",
+              "status": "draft"
+            },
+            {
+              "id": "abu",
+              "roman": "abu",
+              "en": "ash",
+              "status": "draft"
+            },
+            {
+              "id": "lupa",
+              "roman": "lupa",
+              "en": "land / soil",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u14",
+      "title": "Celebrations",
+      "titleNative": "Pamagsaya",
+      "color": "red",
+      "lessons": [
+        {
+          "id": "u14-l1",
+          "title": "Holidays",
+          "items": [
+            {
+              "id": "mayap-a-pasku",
+              "roman": "Mayap a Pasku",
+              "en": "Merry Christmas",
+              "status": "draft"
+            },
+            {
+              "id": "masayang-bayung-banwa",
+              "roman": "Masayang Bayung Banwa",
+              "en": "Happy New Year",
+              "status": "draft"
+            },
+            {
+              "id": "mayap-a-kebaitan",
+              "roman": "Mayap a kebaitan",
+              "en": "happy birthday",
+              "status": "draft"
+            },
+            {
+              "id": "pista",
+              "roman": "pista",
+              "en": "town fiesta",
+              "status": "draft"
+            },
+            {
+              "id": "parul",
+              "roman": "parul",
+              "en": "Christmas star lantern",
+              "status": "draft",
+              "notes": "San Fernando is famous for its giant parul."
+            },
+            {
+              "id": "ligligan-parul",
+              "roman": "Ligligan Parul",
+              "en": "Giant Lantern Festival",
+              "status": "draft"
+            }
+          ]
+        },
+        {
+          "id": "u14-l2",
+          "title": "Life events",
+          "items": [
+            {
+              "id": "kasal",
+              "roman": "kasal",
+              "en": "wedding",
+              "status": "draft"
+            },
+            {
+              "id": "salamat-king-dios",
+              "roman": "salamat king Dios",
+              "en": "thank God",
+              "status": "draft"
+            },
+            {
+              "id": "dios-ing-makabalu",
+              "roman": "Dios ing makabalu",
+              "en": "God knows",
+              "status": "draft"
+            },
+            {
+              "id": "pakikiramay",
+              "roman": "pakikiramay",
+              "en": "condolences",
+              "status": "draft"
+            },
+            {
+              "id": "pamilya",
+              "roman": "pamilya",
+              "en": "family",
+              "status": "draft"
+            },
+            {
+              "id": "kapampangan",
+              "roman": "Kapampangan",
+              "en": "the Kapampangan language / people",
+              "status": "draft"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
